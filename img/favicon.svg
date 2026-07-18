@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <rect width="64" height="64" rx="13" fill="#1C1A17"/>
+  <g transform="translate(32 32)" fill="#C82F1E">
+    <g id="t"><rect x="-3.4" y="-30" width="6.8" height="9" rx="1.5"/></g>
+    <use href="#t" transform="rotate(45)"/><use href="#t" transform="rotate(90)"/><use href="#t" transform="rotate(135)"/>
+    <use href="#t" transform="rotate(180)"/><use href="#t" transform="rotate(225)"/><use href="#t" transform="rotate(270)"/><use href="#t" transform="rotate(315)"/>
+    <circle r="22" fill="#C82F1E"/>
+    <circle r="16.5" fill="#1C1A17"/>
+  </g>
+  <g fill="none" stroke="#F2ECDF" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M26 22 h12 a6 6 0 0 1 -6 8 a6 6 0 0 1 -6 -8 z"/>
+    <path d="M32 30 v9"/><path d="M28 41 h8"/>
+  </g>
+  <circle cx="32" cy="24.5" r="2.4" fill="#C79A3E"/>
+</svg>

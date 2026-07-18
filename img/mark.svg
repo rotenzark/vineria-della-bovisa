@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+  <g transform="translate(24 24)">
+    <circle r="15"/>
+    <g id="m"><path d="M0 -15 v-4"/></g>
+    <use href="#m" transform="rotate(45)"/><use href="#m" transform="rotate(90)"/><use href="#m" transform="rotate(135)"/>
+    <use href="#m" transform="rotate(180)"/><use href="#m" transform="rotate(225)"/><use href="#m" transform="rotate(270)"/><use href="#m" transform="rotate(315)"/>
+  </g>
+  <path d="M18 18 h12 a6 6 0 0 1 -6 8 a6 6 0 0 1 -6 -8 z"/>
+  <path d="M24 26 v6"/><path d="M20 32 h8"/>
+</svg>
